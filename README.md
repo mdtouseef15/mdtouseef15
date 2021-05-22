@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Md Touseef's github stats](https://github-readme-stats.vercel.app/api?username=mdtouseef15&show_icons=true&include_all_commits=true&theme=merko) 
+![Md Touseef's github stats](https://github-readme-stats.vercel.app/api?username=mdtouseef15&show_icons=true&include_all_commits=true&theme=chartreuse-dark) 
 
 <div align="center">
 <p><strong>VISITS<Strong></p>
