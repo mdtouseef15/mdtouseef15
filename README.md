@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: html, css and Javascript
-- 👯 Always happy to Collaborate and Help
-- 💡 Curious about LIFE
-- ❤️ Loves Gaming, Gadgets, Music, Anime, & Travelling
-- 🤔 I’m looking for help! Can u take me to SPACE?
-- ⚡ Fun fact is that life is unpredictable...
+
 - 💬 Ask me about anything [here](https://github.com/mdtouseef15/mdtouseef15/issues)
 <br />
 <br />
