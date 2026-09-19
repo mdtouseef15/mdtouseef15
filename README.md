@@ -1,4 +1,4 @@
-### Hi there, I am Md Touseef 👋
+### Hi there, I am Touseef
 
 <!--
 **mdtouseef15/mdtouseef15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
